@@ -1,0 +1,9 @@
+{
+  "compatibilityMode": false,
+  "productionMode": false,
+  "npmFolder": "/home/pierre-antoine/Documents/Projets/ShareEvent.net",
+  "generatedFolder": "/home/pierre-antoine/Documents/Projets/ShareEvent.net/target/frontend",
+  "frontendFolder": "/home/pierre-antoine/Documents/Projets/ShareEvent.net/frontend",
+  "pnpm.enable": false,
+  "require.home.node": false
+}
