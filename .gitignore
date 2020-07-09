@@ -4,3 +4,6 @@ node_modules
 
 .project
 .classpath
+target
+target/classes
+target/frontend
