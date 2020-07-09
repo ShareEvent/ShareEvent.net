@@ -1,4 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?><project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0" 
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
     <groupId>net.shareevent</groupId>
     <artifactId>shareevent</artifactId>
@@ -15,6 +17,11 @@
 
         <vaadin.version>14.2.3</vaadin.version>
         <jetty.version>9.4.28.v20200408</jetty.version>
+
+        <sonar.projectKey>ShareEvent_ShareEvent.net</sonar.projectKey>
+        <sonar.organization>shareevent</sonar.organization>
+        <sonar.host.url>https://sonarcloud.io</sonar.host.url>
+        <sonar.login>SONAR_TOKEN</sonar.login>
     </properties>
 
     <repositories>
