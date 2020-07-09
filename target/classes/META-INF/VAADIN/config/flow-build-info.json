@@ -1,0 +1,9 @@
+{
+  "compatibilityMode": false,
+  "productionMode": false,
+  "npmFolder": "D:\\OneDrive\\Université\\Projets\\ShareEvent.net",
+  "generatedFolder": "D:\\OneDrive\\Université\\Projets\\ShareEvent.net\\target\\frontend",
+  "frontendFolder": "D:\\OneDrive\\Université\\Projets\\ShareEvent.net\\frontend",
+  "pnpm.enable": false,
+  "require.home.node": false
+}
