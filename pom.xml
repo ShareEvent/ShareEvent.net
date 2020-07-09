@@ -21,7 +21,7 @@
         <sonar.projectKey>ShareEvent_ShareEvent.net</sonar.projectKey>
         <sonar.organization>shareevent</sonar.organization>
         <sonar.host.url>https://sonarcloud.io</sonar.host.url>
-        <sonar.login>SONAR_TOKEN</sonar.login>
+        <sonar.login>{{ secrets.SONAR_TOKEN }}</sonar.login>
     </properties>
 
     <repositories>
