@@ -14,6 +14,11 @@ import org.slf4j.LoggerFactory;
 
 public class TranslationProvider implements I18NProvider {
 
+    /**
+     *
+     */
+    private static final long serialVersionUID = 8021923738787495449L;
+
     public static final String BUNDLE_PREFIX = "translate";
 
     public final Locale LOCALE_EN = new Locale("en", "GB");
